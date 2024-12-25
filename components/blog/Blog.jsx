@@ -11,7 +11,7 @@ const blogPosts = [
     title: 'Discover 5 Hidden Chrome DevTools Features for QA 🕵️‍♂️🔧',
     description:
       'This article provides insights into hidden Chrome DevTools features every QA should know.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article19.jpg?height=200&width=300',
     link: 'https://www.linkedin.com/pulse/5-hidden-chrome-devtools-features-every-qasdet-must-know-chotaliya-yizof/',
   },
   {
@@ -132,7 +132,7 @@ const blogPosts = [
     title: '💻 Install Gatling on Mac: VS Code & Scala Guide',
     description:
       'An article about installing Gatling on Mac using VS Code and Scala.',
-    image: '/imgs/article16.jpg?height=200&width=300',
+    image: '/imgs/article16.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/install-gatling-mac-vs-code-scala-guide',
   },
   {
@@ -148,14 +148,14 @@ const blogPosts = [
     title: '🖼️ WebdriverIO Image Validation: Automate Broken Images',
     description:
       'An article about automating image validation and detecting broken images using WebdriverIO.',
-    image: '/imgs/article14.jpg?height=200&width=300',
+    image: '/imgs/article14.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/webdriverio-image-validation-automate-broken-images',
   },
   {
     id: 13,
     title: '🚀 Performance Testing with WebdriverIO: A Guide',
     description: 'An article about performance testing using WebdriverIO.',
-    image: '/imgs/article13.jpeg?height=200&width=300',
+    image: '/imgs/article13.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/performance-testing-webdriverio-guide',
   },
   {
@@ -172,7 +172,7 @@ const blogPosts = [
       '🔀 The Ultimate Guide to Naming Git Branches: Best Practices and Tips',
     description:
       'An article about best practices and tips for naming Git branches.',
-    image: '/imgs/article11.jpg?height=200&width=300',
+    image: '/imgs/article11.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/the-ultimate-guide-to-naming-git-branches-best-practices-and-tips',
   },
   {
@@ -181,7 +181,7 @@ const blogPosts = [
       '🌐 How to Set Up a World Object: Seamlessly Exchange Data Between Steps in WebdriverIO TypeScript Cucumber Automation Framework',
     description:
       'An article about setting up a World object to exchange data between steps in WebdriverIO TypeScript Cucumber frameworks.',
-    image: '/imgs/article10.jpg?height=200&width=300',
+    image: '/imgs/article10.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/how-to-set-up-a-world-object-seamlessly-exchange-data-between-steps-in-webdriverio-typescript-cucumber-automation-framework',
   },
   {
@@ -199,7 +199,7 @@ const blogPosts = [
       '🔧 Setting Up a .env Environment File for WebdriverIO TypeScript Framework',
     description:
       'An article about setting up a .env environment file in WebdriverIO TypeScript frameworks.',
-    image: '/imgs/article8.jpg?height=200&width=300',
+    image: '/imgs/article8.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/setting-up-a-env-environment-file-for-webdriverio-typescript-framework',
   },
   {
@@ -215,7 +215,7 @@ const blogPosts = [
     id: 6,
     title: '🐞 Efficient Bug Tracking in Jira: A Guide',
     description: 'An article about efficient bug tracking practices in Jira.',
-    image: '/imgs/article6.jpg?height=200&width=300',
+    image: '/imgs/article6.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/efficient-bug-tracking-in-jira-guide',
   },
   {
@@ -231,7 +231,7 @@ const blogPosts = [
     title: '📝 Test Case Naming Convention for Automation Frameworks',
     description:
       'An article about effective test case naming conventions for automation frameworks.',
-    image: '/imgs/article4.jpg?height=200&width=300',
+    image: '/imgs/article4.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/test-case-naming-convention-for-automation-frameworks',
   },
   {
@@ -240,7 +240,7 @@ const blogPosts = [
       '🎭 Unleashing the Power of BDD: Writing Effective Scenarios Beyond the UI',
     description:
       'An article about writing effective BDD scenarios beyond the UI.',
-    image: '/imgs/article3.jpeg?height=200&width=300',
+    image: '/imgs/article3.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/unleashing-the-power-of-bdd-writing-effective-scenarios-beyond-the-ui',
   },
   {
