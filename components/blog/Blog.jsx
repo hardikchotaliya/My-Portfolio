@@ -11,7 +11,7 @@ const blogPosts = [
     title: 'Discover 5 Hidden Chrome DevTools Features for QA 🕵️‍♂️🔧',
     description:
       'This article provides insights into hidden Chrome DevTools features every QA should know.',
-    image: '/imgs/article19.jpg?height=200&width=300',
+    image: '/imgs/article31.jpg?height=200&width=300',
     link: 'https://www.linkedin.com/pulse/5-hidden-chrome-devtools-features-every-qasdet-must-know-chotaliya-yizof/',
   },
   {
@@ -19,7 +19,7 @@ const blogPosts = [
     title: 'Write Effective Commit Messages for QA Engineers 📝🔧',
     description:
       'This article provides tips on writing effective commit messages for QA engineers.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article30.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/commit-messages-for-qa-engineers',
   },
   {
@@ -27,7 +27,7 @@ const blogPosts = [
     title: 'Enhance QA with Responsively App for Responsive Testing 📱🔍',
     description:
       'This article recommends using Responsively App for QA responsive testing.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article29.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/responsively-app-for-qa-responsive-testing',
   },
   {
@@ -35,7 +35,7 @@ const blogPosts = [
     title: 'Craft the Perfect Tech Resume 📝💼',
     description:
       'This article provides tips on creating an outstanding tech resume.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article28.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/craft-perfect-tech-resume',
   },
   {
@@ -43,7 +43,7 @@ const blogPosts = [
     title: 'Master Test Data Generation Tools for QA Testing 🛠️🔍',
     description:
       'This article provides tips and plugins for mastering test data generation.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article27.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/mastering-test-data-generation-tools-tips-plugins-for-qa-testing',
   },
   {
@@ -51,7 +51,7 @@ const blogPosts = [
     title: '🧠 Understand Behavior Driven Development (BDD)',
     description:
       'This article provides an overview of Behavior Driven Development (BDD).',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article26.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/what-is-behavior-driven-development-bdd',
   },
   {
@@ -59,7 +59,7 @@ const blogPosts = [
     title: '📧 Automate Email Reports for Failures Effortlessly ⚙️',
     description:
       'This article covers how to send email reports for automation failures.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article25.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/send-email-report-automation-failures',
   },
   {
@@ -67,7 +67,7 @@ const blogPosts = [
     title: '📋 Enhance Console Logging: Global Log Wrapper in WebdriverIO',
     description:
       'An article about enhancing console logging with a global log wrapper in WebdriverIO.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article24.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/enhance-console-logging-global-log-wrapper-webdriverio',
   },
   {
@@ -76,7 +76,7 @@ const blogPosts = [
       '🔧 WebdriverIO Configuration Guide: Setting Up Your Test Automation Framework',
     description:
       'An article about configuring WebdriverIO for your test automation framework.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article23.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/webdriverio-configuration-guide-setting-up-your-test-automation-framework',
   },
   {
@@ -84,7 +84,7 @@ const blogPosts = [
     title: '🛠️ The Ultimate Toolset for Becoming a Top 1% SDET',
     description:
       'An article about essential tools for developing a test automation framework.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article22.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/the-ultimate-toolset-for-becoming-a-top-1-sdet-must-have-tools-before-developing-a-test-automation-framework',
   },
   {
@@ -92,7 +92,7 @@ const blogPosts = [
     title: '🚀 WebdriverIO v9: Features & Updates 2024',
     description:
       'An article about the new features and updates in WebdriverIO v9 for 2024.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article21.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/webdriverio-v9-features-updates-2024',
   },
   {
@@ -100,7 +100,7 @@ const blogPosts = [
     title: '🌐 WebDriver BiDi: Browser Automation Protocol Guide',
     description:
       'An article about using the WebDriver BiDi protocol for browser automation.',
-    image: '/imgs/article19.png?height=200&width=300',
+    image: '/imgs/article20.png?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/webdriver-bidi-browser-automation-protocol-guide',
   },
   {
