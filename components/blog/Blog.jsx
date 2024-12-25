@@ -27,7 +27,7 @@ const blogPosts = [
     title: 'Enhance QA with Responsively App for Responsive Testing 📱🔍',
     description:
       'This article recommends using Responsively App for QA responsive testing.',
-    image: '/imgs/article29.png?height=200&width=300',
+    image: '/imgs/article29.jpg?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/responsively-app-for-qa-responsive-testing',
   },
   {
@@ -35,7 +35,7 @@ const blogPosts = [
     title: 'Craft the Perfect Tech Resume 📝💼',
     description:
       'This article provides tips on creating an outstanding tech resume.',
-    image: '/imgs/article28.png?height=200&width=300',
+    image: '/imgs/article28.jpg?height=200&width=300',
     link: 'https://hardikchotaliya.hashnode.dev/craft-perfect-tech-resume',
   },
   {
