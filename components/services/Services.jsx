@@ -6,7 +6,8 @@ const cards = [
     src: '/svg/frontend.svg',
     alt: 'Agile Testing & Sprint Management',
     title: 'Agile Testing & Sprint Management',
-    description: 'Collaborate in Agile environments to streamline QA processes, ensuring timely delivery of thoroughly tested features.',
+    description:
+      'Collaborate in Agile environments to streamline QA processes, ensuring timely delivery of thoroughly tested features.',
   },
   {
     src: '/svg/backend.svg',
@@ -20,7 +21,7 @@ const cards = [
     alt: 'API Testing',
     title: 'API Testing',
     description:
-      "Create APIs to enable efficient communication between systems, ensuring smooth data exchange.",
+      'Validate APIs for seamless communication and reliable data exchange across systems.',
   },
   {
     src: '/svg/performance.svg',
@@ -29,6 +30,20 @@ const cards = [
     description:
       'Design and develop scalable, maintainable automation frameworks tailored to your project needs, using industry-leading tools and technologies like WebdriverIO, TypeScript, and more.',
   },
+  // {
+  //   src: '/svg/frontend.svg',
+  //   alt: 'Continuous Integration & Delivery',
+  //   title: 'Continuous Integration & Delivery',
+  //   description:
+  //     'Implement automation in CI/CD pipelines for rapid and reliable software releases.',
+  // },
+  // {
+  //   src: '/svg/frontend.svg',
+  //   alt: 'Performance Testing',
+  //   title: 'Performance Testing',
+  //   description:
+  //     'Enhance system performance using tools like K6 and Grafana for fast and stable experiences.',
+  // },
 ];
 
 const Services = () => {
