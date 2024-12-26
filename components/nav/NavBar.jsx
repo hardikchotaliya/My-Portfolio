@@ -41,7 +41,7 @@ export default function NavBar() {
                   aria-label="Hardik Chotaliya"
                   className="text-sky-600 text-3xl font-bold"
                 >
-                  HADIL<span className="text-white text-3xl font-bold">.</span>DEV
+                  HARDIK<span className="text-white text-3xl font-bold">.</span>DEV
                 </h3>
               </Link>
             </div>
