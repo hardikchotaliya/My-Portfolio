@@ -4,35 +4,36 @@ import HyperOne from '../customH1/HyperOne';
 const cards = [
   {
     src: '/svg/frontend.svg',
-    alt: 'Front-end Development',
-    title: 'Front-end Development',
-    description: 'Build user interfaces for websites and applications, ensuring a seamless user experience.',
+    alt: 'Agile Testing & Sprint Management',
+    title: 'Agile Testing & Sprint Management',
+    description: 'Collaborate in Agile environments to streamline QA processes, ensuring timely delivery of thoroughly tested features.',
   },
   {
     src: '/svg/backend.svg',
-    alt: 'Back-end Development',
-    title: 'Back-end Development',
+    alt: 'Test Automation',
+    title: 'Test Automation',
     description:
-      'Develop server-side logic to power applications, ensuring scalability and smooth data processing.',
+      'Design and develop scalable, maintainable automation frameworks tailored to your project needs, using industry-leading tools and technologies like WebdriverIO, TypeScript, and more.',
   },
   {
     src: '/svg/api.svg',
-    alt: 'API',
-    title: 'API',
+    alt: 'API Testing',
+    title: 'API Testing',
     description:
       "Create APIs to enable efficient communication between systems, ensuring smooth data exchange.",
   },
   {
     src: '/svg/performance.svg',
-    alt: 'Performance Optimization',
-    title: 'Performance Optimize',
+    alt: 'Framework Design',
+    title: 'Framework Design',
     description:
-      'Optimize websites and applications to deliver fast and efficient performance.',
+      'Design and develop scalable, maintainable automation frameworks tailored to your project needs, using industry-leading tools and technologies like WebdriverIO, TypeScript, and more.',
   },
 ];
 
 const Services = () => {
-  const breif = `As an Automation Test Engineer, I provide comprehensive test automation services, including framework development, test script creation, and CI/CD integration. With expertise in leading automation tools and a focus on efficiency and reliability, I deliver robust testing solutions that ensure high-quality software and faster release cycles.`;
+  // const breif = `As an Automation Test Engineer, I provide comprehensive test automation services, including framework development, test script creation, and CI/CD integration. With expertise in leading automation tools and a focus on efficiency and reliability, I deliver robust testing solutions that ensure high-quality software and faster release cycles.`;
+  const breif = `As a highly skilled Automation Test Engineer/SDET, I specialize in ensuring seamless, high-quality software releases through robust test automation, precise quality assurance, and advanced testing strategies. With expertise in designing scalable automation frameworks, implementing CI/CD pipelines, and leveraging modern testing tools, I deliver reliable software systems that enhance user satisfaction and drive business success.`;
   return (
     <div id="services">
       <HyperOne value={'Services'} />
