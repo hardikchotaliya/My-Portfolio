@@ -31,8 +31,8 @@ export default function ContactMe() {
     console.log("Sending email...");
     emailjs
       .sendForm(
-        'service_xjpmna6',
-        'template_xpmqgei',
+        'service_htybuxq',
+        'template_1sbxhzu',
         form.current,
         process.env.NEXT_PUBLIC_EMAILJS_USER_ID
       )
@@ -134,12 +134,12 @@ export default function ContactMe() {
       </main>
       {isMessageSent && (
         <div className="popup">
-          <p>Message sent successfully! 💙✅</p>
+          <p>Message sent successfully! ✅</p>
         </div>
       )}
       {isNotEmpty && (
         <div className="popup">
-          <p>Please fill out all fields ❌⚠️</p>
+          <p>Please fill out all fields ❌</p>
         </div>
       )}
     </>
