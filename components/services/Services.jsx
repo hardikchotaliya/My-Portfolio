@@ -10,7 +10,7 @@ const cards = [
       'Collaborate in Agile environments to streamline QA processes, ensuring timely delivery of thoroughly tested features.',
   },
   {
-    src: '/svg/backend.svg',
+    src: '/svg/automation.svg',
     alt: 'Test Automation',
     title: 'Test Automation',
     description:
@@ -24,7 +24,7 @@ const cards = [
       'Validate APIs for seamless communication and reliable data exchange across systems.',
   },
   {
-    src: '/svg/performance.svg',
+    src: '/svg/framework.svg',
     alt: 'Framework Design',
     title: 'Framework Design',
     description:
