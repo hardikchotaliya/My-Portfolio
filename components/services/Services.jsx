@@ -7,14 +7,14 @@ const cards = [
     alt: 'Agile Testing & Sprint Management',
     title: 'Agile Testing & Sprint Management',
     description:
-      'Collaborate in Agile environments to streamline QA processes, ensuring timely delivery of thoroughly tested features.',
+      'Streamline QA processes in Agile to ensure timely and well-tested feature deliveries.',
   },
   {
     src: '/svg/automation.svg',
     alt: 'Test Automation',
     title: 'Test Automation',
     description:
-      'Design and develop scalable, maintainable automation frameworks tailored to your project needs, using industry-leading tools and technologies like WebdriverIO, TypeScript, and more.',
+      'Automate testing for web, mobile, and APIs to ensure consistent quality and save manual effort.',
   },
   {
     src: '/svg/api.svg',
@@ -28,7 +28,7 @@ const cards = [
     alt: 'Framework Design',
     title: 'Framework Design',
     description:
-      'Design and develop scalable, maintainable automation frameworks tailored to your project needs, using industry-leading tools and technologies like WebdriverIO, TypeScript, and more.',
+      'Develop scalable automation frameworks using tools like WebdriverIO and TypeScript.',
   },
   // {
   //   src: '/svg/frontend.svg',
