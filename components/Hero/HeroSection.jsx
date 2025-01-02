@@ -19,7 +19,7 @@ const HeroSection = () => {
         <div className="flex justify-center items-center max-w-2xl py-32 sm:py-48 lg:py-48">
           <div className="select-none flex flex-col justify-center items-center align-middle">
             <p className={`text-4xl text-center font-bold mb-2 sm:text-5xl `}>
-              Hello world! 👋 <br/> I&apos;m a Automation Test Engineer 💻
+              Hello world! 👋 <br/> I&apos;m an Automation Test Engineer 💻
             </p>
             <div>
               <div className="relative w-72 h-72">
