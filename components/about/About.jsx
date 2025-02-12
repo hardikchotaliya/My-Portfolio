@@ -109,7 +109,7 @@ const About = () => {
                   className={`${
                     isVisible ? styles['fade-in1'] : styles['progress-line']
                   }`}
-                  value="95%"
+                  // value="95%"
                   style={{
                     width: '95%',
                   }}
@@ -124,7 +124,7 @@ const About = () => {
                   className={`${
                     isVisible ? styles['fade-in2'] : styles['progress-line']
                   }`}
-                  value="85%"
+                  // value="85%"
                   style={{
                     width: '85%',
                   }}
@@ -139,7 +139,7 @@ const About = () => {
                   className={`${
                     isVisible ? styles['fade-in3'] : styles['progress-line']
                   }`}
-                  value="80%"
+                  // value="80%"
                   style={{
                     width: '80%',
                   }}
@@ -154,7 +154,7 @@ const About = () => {
                   className={`${
                     isVisible ? styles['fade-in4'] : styles['progress-line']
                   }`}
-                  value="80%"
+                  // value="80%"
                   style={{
                     width: '80%',
                   }}
